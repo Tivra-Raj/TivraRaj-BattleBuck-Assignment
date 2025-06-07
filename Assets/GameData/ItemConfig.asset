@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23a8cd19004b4e349b3d1840c6b941da, type: 3}
+  m_Name: ItemConfig
+  m_EditorClassIdentifier: 
+  PlatformConfig:
+  - {fileID: 679749413176288117, guid: cb2a9479f8e30ad4999d595e29bf2780, type: 3}
+  - {fileID: 886972522937573521, guid: 6d773412c175faa4a904d760756846bb, type: 3}
+  - {fileID: 4046491508870175456, guid: f1fb4cc1cad74ef478323eaa4facd067, type: 3}
+  - {fileID: 1015168512959971114, guid: 0c81ab66915322949b73159338d1a7bb, type: 3}
+  - {fileID: 6496157050738206597, guid: cbf8c03a270902f4ab531ef754e81b44, type: 3}
+  - {fileID: 4224037680299815373, guid: 274bb7acf9f0bf04486c44f1d85624a6, type: 3}
+  - {fileID: 2987922382408557171, guid: 22259ebc3f62c86469026c3f1ead05b5, type: 3}
+  EnemyConfig:
+  - {fileID: 11400000, guid: 4cf59cf896d07be47b3af58f4a5e2885, type: 2}
+  - {fileID: 11400000, guid: b15cacd9babf3ac4c963ab05e4cbb091, type: 2}
+  - {fileID: 11400000, guid: 583e06d3ebfafaf449f8dc44d9618970, type: 2}
+  CoinConfig: {fileID: 11400000, guid: d339fd4198f63474cace31e6adebcf27, type: 2}

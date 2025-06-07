@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6f1d9f3f8086344b3e387d2e27954b, type: 3}
+  m_Name: CoinConfig
+  m_EditorClassIdentifier: 
+  coinPrefab: {fileID: 4225747107327085049, guid: d5ec583fd185fd646a0576ee07f048b0, type: 3}
+  value: 1
+  collectSound: {fileID: 0}
